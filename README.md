@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alex45298
-- 👀 I’m interested in biology, music, computer science and literature. 
+- 👀 I’m interested in physics, biology, music, computer science and literature. 
 - 🌱 I’m currently learning medicine. 
 - 💞️ I’m looking to collaborate on any project in python, java or C#. 
 - 📫 The easiest way to reach me is by email. 
