@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alex45298
-- 👀 I’m interested in 
+- 👀 I’m interested in biology, music, computer science and literature. 
 - 🌱 I’m currently learning medicine. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any project in python, java or C#. 
+- 📫 The easiest way to reach me is by email. 
 
 <!---
 alex45298/alex45298 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
